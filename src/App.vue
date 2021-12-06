@@ -41,7 +41,7 @@
       </table>
     </div>
     <footer>
-      <h6 class="text-muted text-center m-4">Desarrollado por <a href="https://www.linkedin.com/in/lurodriguezalfaro/">Lu Rodriguez Alfaro</a></h6>
+      <h6 class="text-muted text-center m-4">Desarrollado por <a href="https://www.linkedin.com/in/lurodriguezalfaro/" target="_blank">Lu Rodriguez Alfaro</a></h6>
     </footer>
   </div>
 </template>
